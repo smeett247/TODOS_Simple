@@ -11,6 +11,12 @@ A beautiful, responsive todo application built with HTML, CSS, and JavaScript.
 - **Keyboard Shortcuts**: Quick actions for power users
 - **Smooth Animations**: Professional micro-interactions
 
+
+## Deployed Site
+- todos-simple.vercel.app
+- You can visit the site for the real experiment.
+  
+
 ## 🚀 Live Demo
 
 [View Live Demo](https://your-username.github.io/taskflow)
